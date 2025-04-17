@@ -1,6 +1,19 @@
 # Letters and Animals for Kids (Android APP)
 
-"Letters and Animals for Kids" is an educational app designed to help children learn how to correctly pronounce letters and animal names in Arabic and the Egyptian dialect. The app features an engaging interface specially designed for children, along with voiceovers that assist in improving their pronunciation.
+**Letters and Animals for Kids** is an educational app designed to help children learn how to correctly pronounce letters and animal names in Arabic and the Egyptian dialect. The app features an engaging interface specially designed for children, along with voiceovers that assist in improving their pronunciation.
+
+## Demo
+
+You can watch the demo video of the app on YouTube:
+
+[![Watch the demo video](https://img.youtube.com/vi/O4S1y2h3nmE/0.jpg)](https://www.youtube.com/watch?v=O4S1y2h3nmE)
+
+## Download the App
+
+You can download the app from the Google Play Store by clicking on the link below:
+
+[Download Letters and Animals for Kids on Google Play](https://play.google.com/store/apps/details?id=com.arca.animals_v3)
+
 
 ## Key Features
 
