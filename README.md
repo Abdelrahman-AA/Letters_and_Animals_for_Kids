@@ -121,4 +121,4 @@ If you have improvements or additions you would like to contribute, please submi
 
 ## License
 
-The app is licensed under the [reative Commons Attribution-NonCommercial 4.0 International License](https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/blob/main/LICENSE.md).
+The app is licensed under the [reative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
