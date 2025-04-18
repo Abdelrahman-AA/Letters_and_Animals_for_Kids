@@ -10,9 +10,18 @@ You can watch the demo video of the app on YouTube:
 
 ## Download the App
 
-You can download the app from the Google Play Store by clicking on the link below:
+### You can download the app from the Google Play Store by clicking on the link below:
 
 [Download Letters and Animals for Kids on Google Play](https://play.google.com/store/apps/details?id=com.arca.animals_v3)
+
+### 📦 Download the APK
+
+If you'd like to try the app directly without using the Google Play Store, you can download the APK file and install it manually on your Android device from the link below:
+
+🔗 [Download APK](https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/releases/latest/download/Letters_and_Animals_for_Kids.apk)
+
+> ⚠️ **Note:** Make sure to enable "Install from unknown sources" in your device settings before installing the APK.
+
 
 
 ## Key Features
