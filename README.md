@@ -2,6 +2,19 @@
 
 **Letters and Animals for Kids** is an educational app designed to help children learn how to correctly pronounce letters and animal names in Arabic and the Egyptian dialect. The app features an engaging interface specially designed for children, along with voiceovers that assist in improving their pronunciation.
 
+**Screenshot**:
+
+Here are some screenshots of the app in action, showcasing its interactive features and user-friendly interface:
+
+<p align="center">
+  <img src="https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/blob/main/APP%20Screenshots/Screenshot_20230101_194114.png" alt="Graphs" width="200" style="display:inline-block; margin-right: 10px;">
+  <img src="https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/blob/main/APP%20Screenshots/Screenshot_20230101_194239.png" alt="Another Graph" width="200" style="display:inline-block;">
+  <img src="https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/blob/main/APP%20Screenshots/Screenshot_20230101_194327.png" alt="Another Graph" width="200" style="display:inline-block;">
+  <img src="https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/blob/main/APP%20Screenshots/Screenshot_20230101_194418.png" alt="Another Graph" width="200" style="display:inline-block;">
+  <img src="https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/blob/main/APP%20Screenshots/Screenshot_20230101_194448.png" alt="Another Graph" width="200" style="display:inline-block;">
+  <img src="https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/blob/main/APP%20Screenshots/Screenshot_20230101_194500.png" alt="Another Graph" width="200" style="display:inline-block;">
+</p>
+
 ## Demo
 
 You can watch the demo video of the app on YouTube:
@@ -13,14 +26,6 @@ You can watch the demo video of the app on YouTube:
 ### You can download the app from the Google Play Store by clicking on the link below:
 
 [Download Letters and Animals for Kids on Google Play](https://play.google.com/store/apps/details?id=com.arca.animals_v3)
-
-### 📦 Download the APK
-
-If you'd like to try the app directly without using the Google Play Store, you can download the APK file and install it manually on your Android device from the link below:
-
-🔗 [Download APK](https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/releases/latest/download/Letters_and_Animals_for_Kids.apk)
-
-> ⚠️ **Note:** Make sure to enable "Install from unknown sources" in your device settings before installing the APK.
 
 
 
