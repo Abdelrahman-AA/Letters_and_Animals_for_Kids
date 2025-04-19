@@ -7,12 +7,12 @@
 Here are some screenshots of the app in action, showcasing its interactive features and user-friendly interface:
 
 <p align="center">
-  <img src="https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/blob/main/APP%20Screenshots/Screenshot_20230101_194114.png" alt="Graphs" width="200" style="display:inline-block; margin-right: 10px;">
-  <img src="https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/blob/main/APP%20Screenshots/Screenshot_20230101_194239.png" alt="Another Graph" width="200" style="display:inline-block;">
-  <img src="https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/blob/main/APP%20Screenshots/Screenshot_20230101_194327.png" alt="Another Graph" width="200" style="display:inline-block;">
-  <img src="https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/blob/main/APP%20Screenshots/Screenshot_20230101_194418.png" alt="Another Graph" width="200" style="display:inline-block;">
-  <img src="https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/blob/main/APP%20Screenshots/Screenshot_20230101_194448.png" alt="Another Graph" width="200" style="display:inline-block;">
-  <img src="https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/blob/main/APP%20Screenshots/Screenshot_20230101_194500.png" alt="Another Graph" width="200" style="display:inline-block;">
+  <img src="https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/blob/main/APP%20Screenshots/Screenshot_20230101_194114.png" alt="Graphs" width="170" style="display:inline-block; margin-right: 10px;">
+  <img src="https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/blob/main/APP%20Screenshots/Screenshot_20230101_194239.png" alt="Another Graph" width="170" style="display:inline-block;">
+  <img src="https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/blob/main/APP%20Screenshots/Screenshot_20230101_194327.png" alt="Another Graph" width="170" style="display:inline-block;">
+  <img src="https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/blob/main/APP%20Screenshots/Screenshot_20230101_194418.png" alt="Another Graph" width="170" style="display:inline-block;">
+  <img src="https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/blob/main/APP%20Screenshots/Screenshot_20230101_194448.png" alt="Another Graph" width="170" style="display:inline-block;">
+  <img src="https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids/blob/main/APP%20Screenshots/Screenshot_20230101_194500.png" alt="Another Graph" width="170" style="display:inline-block;">
 </p>
 
 ## Demo
