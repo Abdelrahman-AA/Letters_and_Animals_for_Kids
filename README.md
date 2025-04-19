@@ -4,7 +4,7 @@
 
 ---
 
-**Screenshot**:
+**Screenshots**
 
 Here are some screenshots of the app in action, showcasing its interactive features and user-friendly interface:
 
