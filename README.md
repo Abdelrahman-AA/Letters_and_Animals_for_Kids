@@ -61,4 +61,4 @@ You can watch the demo video of the app on YouTube:
 
 ## License
 
-**The app is licensed under the [reative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).**
+**The app is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).**
