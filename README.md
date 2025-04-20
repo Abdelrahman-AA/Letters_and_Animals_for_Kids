@@ -2,7 +2,7 @@
 
 **Letters and Animals for Kids** is an educational app designed to help children learn how to correctly pronounce letters and animal names in Arabic and the Egyptian dialect. The app features an engaging interface specially designed for children, along with voiceovers that assist in improving their pronunciation.
 <p align="center">
-<img src="https://img.youtube.com/vi/O4S1y2h3nmE/0.jpg" alt="Success Rate Over Time" width="1200">
+<img src="https://img.youtube.com/vi/O4S1y2h3nmE/0.jpg" alt="Success Rate Over Time" width="700">
 </p>
 
 <br>
